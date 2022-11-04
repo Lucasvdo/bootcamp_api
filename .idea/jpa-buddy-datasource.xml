@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="faffcc28-bf54-45ea-8424-f189663e1064" name="BootCamp_API" url="jdbc:postgresql://localhost:5432/springbootdb" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
